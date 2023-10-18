@@ -3,11 +3,11 @@
 }
 
 .showcase img {
-	margin-bottom: -50px !important;
+	margin-bottom: -50px;
 }
 
 .p-6 {
-	padding: 40px 40px;
+	padding: 40px;
 }
 
 .bg-light {
@@ -26,7 +26,7 @@
 }
 
 .btn-secondary {
-	background: #c111f5 !important;
+	background: #c111f5;
 	border: none;
 }
 
@@ -36,9 +36,11 @@
 		text-align: center;
 		padding-top: 0 !important;
 	}
+
 	.showcase img {
 		margin-bottom: 30px !important;
 	}
+
 	.showcase .col-md-5 {
 		padding: 10px !important;
 	}
